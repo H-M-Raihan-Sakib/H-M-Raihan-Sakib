@@ -16,10 +16,10 @@
 ## 🌐 Connect
 
 <p>
-  <a href="https://linkedin.com/in/h-m-raihan-sakib"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://fb.com/hm.raihan.sakibb"><img src="https://img.icons8.com/color/48/facebook-new.png" height="35"/></a>
-  <a href="https://codeforces.com/profile/TechRS"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="35"/></a>
-  <a href="https://www.codechef.com/users/hm_sakib"><img src="https://img.icons8.com/color/48/codechef.png" height="35"/></a>
+  <a href="https://linkedin.com/in/h-m-raihan-sakib"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://fb.com/hm.raihan.sakibb"><img src="https://img.icons8.com/color/48/facebook-new.png" height="35"/></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://codeforces.com/profile/TechRS"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="35"/></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://www.codechef.com/users/hm_sakib"><img src="https://img.icons8.com/color/48/codechef.png" height="35"/></a>&nbsp; &nbsp; &nbsp;
 </p>
 
 ## 🛠️ Tech Stack
